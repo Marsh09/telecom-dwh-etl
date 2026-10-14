@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+warehouse/
+data/incoming/*.csv
+data/archive/*.csv
